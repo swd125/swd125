@@ -16,4 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 June 2023 - To: 28 June 2023
+
+Total Time: 2 hrs 46 mins
+
+Python   2 hrs 32 mins   ███████████████████████░░   91.66 %
+Bash     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Text     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
