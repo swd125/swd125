@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2023 - To: 05 July 2023
+From: 21 June 2023 - To: 06 July 2023
 
-Total Time: 20 hrs 19 mins
+Total Time: 26 hrs 5 mins
 
-Python       18 hrs 19 mins  ██████████████████████▓░░   90.11 %
-Bash         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Text         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python       24 hrs 4 mins   ███████████████████████░░   92.29 %
+Bash         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Text         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
