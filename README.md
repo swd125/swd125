@@ -18,17 +18,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2023 - To: 06 July 2023
+From: 21 June 2023 - To: 07 July 2023
 
-Total Time: 26 hrs 5 mins
+Total Time: 29 hrs 13 mins
 
-Python       24 hrs 4 mins   ███████████████████████░░   92.29 %
-Bash         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Text         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       26 hrs 43 mins  ███████████████████████░░   91.45 %
+Bash         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Text         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
