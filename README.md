@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2023 - To: 05 September 2023
+From: 21 June 2023 - To: 06 September 2023
 
-Total Time: 120 hrs 9 mins
+Total Time: 122 hrs 8 mins
 
-Python           105 hrs 6 mins  ██████████████████████░░░   87.47 %
-TypeScript       3 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Go               3 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Bash             2 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-YAML             1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Other            1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Text             56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JSON             55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-ActionScript 3   34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-SSH Config       15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python           105 hrs 20 mins █████████████████████▓░░░   86.24 %
+TypeScript       3 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Go               3 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Bash             2 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Markdown         1 hr 37 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+YAML             1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other            1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Text             56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JSON             55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+ActionScript 3   34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
